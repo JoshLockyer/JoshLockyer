@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JoshLockyer
-- 👀 I’m interested in Quantum, Particle and High Energy Physics
-- 🌱 I’m currently learning Theoretical Physics at Uni of Manchester
-- 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me ... don't.
+- 🕵️‍♂️ I’m interested in Particle Physics, Quantum Mechanics and Field Theories
+- 📚 I’m currently studying Theoretical Physics (MPhys) at The University of Manchester
+- 💞️ I’m looking to collaborate on anything related to physics.
+- 🧑‍💻 Proficient in Python and Mathematica. Trying to learn C++
+- 📫 You can reach me at: joshua.lockyer@student.manchester.ac.uk
 
 <!---
 JoshLockyer/JoshLockyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
