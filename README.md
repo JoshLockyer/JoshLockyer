@@ -1,9 +1,3 @@
-       _               _          
-      | |             (_)         
- _ __ | |__  _   _ ___ _  ___ ___ 
-| '_ \| '_ \| | | / __| |/ __/ __|
-| |_) | | | | |_| \__ \ | (__\__ \
-| .__/|_| |_|\__, |___/_|\___|___/
-| |           __/ |               
-|_|          |___/                
-
+Welcome to my GitHub page!
+I'm a PhD student in Theoretical Physics; I study dark matter phenomenology
+This page contains some investigations of Monte Carlo simulations 
